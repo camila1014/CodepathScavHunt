@@ -37,7 +37,7 @@ GIF created with https://ezgif.com
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Uploading pictures to the tasks.
 
 ## License
 
